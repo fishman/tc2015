@@ -17,6 +17,7 @@ gem 'devise'
 gem 'pg'
 gem 'simple_form'
 gem 'upmin-admin'
+gem 'high_voltage', '~> 2.4.0'
 group :development do
   gem 'better_errors'
   gem 'guard-bundler'
